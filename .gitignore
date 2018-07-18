@@ -28,3 +28,6 @@ src/example-apps/tick/tick
 src/example-apps/registry/registry
 src/example-apps/eureka/**/target
 vim-go-test-compile
+src/example-apps/registry/jmeter.log
+src/example-apps/registry/project/
+src/example-apps/registry/target/
